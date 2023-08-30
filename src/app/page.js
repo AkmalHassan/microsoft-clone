@@ -8,7 +8,6 @@ export default function Home() {
   return (
 
     <div className=' font-segoe-ui '>
-      {/* new */}
       <Navigation />
       <Main />
       <Foot />
