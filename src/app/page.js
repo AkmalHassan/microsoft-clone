@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Navigation from './navigation'
 import Main from './main'
 import Foot from './foot'
